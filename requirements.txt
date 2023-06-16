@@ -5,5 +5,7 @@ streamlit
 pathlib
 ensure
 python-box
+bs4
+requests
 
 -e .
