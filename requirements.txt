@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+streamlit
+pathlib
+ensure
+python-box
+
+-e .
