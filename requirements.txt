@@ -4,6 +4,8 @@ matplotlib
 streamlit
 pathlib
 ensure
+html5lib
+PyYaml
 python-box
 bs4
 requests

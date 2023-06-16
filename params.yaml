@@ -1,0 +1,7 @@
+data_ingestion:
+  tags: ['love', 'life', 'inspirational', 'humor', 'philosophy', 'god', 'inspirational-quotes', 'truth',
+        'wisdom', 'romance', 'poetry', 'death', 'happiness', 'hope', 'life-lessons', 'inspiration', 'quotes',
+        'writing', 'motivational', 'religion', 'spirituality',  'relationships', 'success', 'life-quotes',
+        'love-quotes', 'time', 'science', 'knowledge', 'motivation']
+  
+  num_pages: 2
